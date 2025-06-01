@@ -26,3 +26,5 @@ La idea fue representar un árbol binario y realizar operaciones básicas como i
 1. Asegurate de tener **Python 3.x** instalado.
 2. Cloná este repositorio o descargá los archivos.
 3. Ejecutá el archivo principal en la terminal o desde un IDE como VSCode.
+4. El programa te va a pedir que ingreses primero la raíz del árbol, y después los valores de los hijos. Cuando quieras dejar de ingresar números, escribí 0.
+5. Luego, te va a mostrar el árbol de forma rotada y va a hacer los tres tipos de recorridos.
