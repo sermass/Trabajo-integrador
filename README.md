@@ -28,3 +28,9 @@ La idea fue representar un árbol binario y realizar operaciones básicas como i
 3. Ejecutá el archivo principal en la terminal o desde un IDE como VSCode.
 4. El programa te va a pedir que ingreses primero la raíz del árbol, y después los valores de los hijos. Cuando quieras dejar de ingresar números, escribí 0.
 5. Luego, te va a mostrar el árbol de forma rotada y va a hacer los tres tipos de recorridos.
+
+---
+
+## Conclusión del grupo
+
+Este trabajo nos sirvió para entender cómo funciona un árbol binario y cómo se puede construir con listas. Aprendimos a aplicar recursividad para hacer los recorridos y también a pensar de forma más estructurada. Aunque al principio parecía complicado, al final logramos implementarlo bien y creemos que fue una buena forma de practicar estructuras más avanzadas sin usar programación orientada a objetos.
