@@ -1,5 +1,7 @@
 # Árbol Binario con Listas en Python
 
+🎥 [Ver video presentación](https://youtu.be/Pa14v28DOdw)
+
 ## Integrantes
 
 - **Manzanelli, Marcos** – marcos.manzanelli.l@gmail.com  
@@ -36,4 +38,4 @@ La idea fue representar un árbol binario y realizar operaciones básicas como i
 Este trabajo nos sirvió para entender cómo funciona un árbol binario y cómo se puede construir con listas. Aprendimos a aplicar recursividad para hacer los recorridos y también a pensar de forma más estructurada. Aunque al principio parecía complicado, al final logramos implementarlo bien y creemos que fue una buena forma de practicar estructuras más avanzadas sin usar programación orientada a objetos.
 
 
-🎥 [Ver video presentación](https://youtu.be/Pa14v28DOdw)
+
